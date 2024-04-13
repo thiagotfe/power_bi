@@ -1,4 +1,4 @@
-# NÃO FINALIZADO AINDA - Power BI - Análise Financeira
+Power BI - Análise Financeira
 
 O Dashboard criado deve responder às seguintes perguntas:
 
